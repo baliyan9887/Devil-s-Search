@@ -1,0 +1,9 @@
+.card {
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 30px;
+    padding-bottom: 5rem;
+    padding-top: 1rem;
+}

@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+
+
+.title {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.7rem;
+  letter-spacing: 0.2rem;
+  font-weight: 500;
+  font-size: 60px;
+}
+
+.divider {
+  background-color: transparent;
+  border: 0;
+  border-top: 3px solid #111111;
+  height: 5px;
+  margin: 2rem auto;
+  text-align: center;
+  width: 10%;
+}
+
+
